@@ -69,7 +69,7 @@ Complete the following:
 - If input list is empty, it throws an exception with a custom error message.
   
 - Each of the test data classes implements controlled, predictable test cases to simulate edge cases.
-- 
+
 - When all test functions pass without error, output will be:
    
   ✅ `OK`
